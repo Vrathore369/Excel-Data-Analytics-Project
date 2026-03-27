@@ -1,4 +1,4 @@
-# 📊 Consumer Complaint Analysis Dashboard (Excel)
+📊 Consumer Complaint Analysis Dashboard (Excel)
 
 ## 📌 Project Overview
 This project analyzes consumer complaint data using Microsoft Excel to identify patterns, response efficiency, and key issues faced by customers. The goal is to generate insights that help improve customer service and decision-making.
@@ -51,8 +51,7 @@ Consumer_Complaint_Analysis/
 ---
 
 ## 📸 Dashboard Preview
-
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/83e0bc41-7c54-402d-b4b9-1f98fa36e248" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/dbdb4495-3d13-4726-848f-80db70aebf00" />
 
 
 ---
