@@ -51,8 +51,9 @@ Consumer_Complaint_Analysis/
 ---
 
 ## 📸 Dashboard Preview
-<img width="679" height="256" alt="image" src="https://github.com/user-attachments/assets/58f98c03-5708-491e-bd0e-b3dc8459eb1d" />
-
+<p align="center">
+<img width="830" height="299" alt="image" src="https://github.com/user-attachments/assets/b5ce53c7-4ef2-4244-92c6-cc9d967ee879" />
+</p>
 
 
 ---
